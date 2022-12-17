@@ -70,14 +70,18 @@ Below is the summary of each lot-1,2,3
 
 ## Study Design: MechaCar vs Competition
 ### What metric or metrics are you going to test?
-
+The test should be performed on h/w fuel efficiency, horsepower and the safety ratings of the car.
 
 ### What is the null hypothesis or alternative hypothesis?
-
+Null Hypothesis: Mean of safety rating is zero.
+Alternate Hypothesis: Mean of safety rating is not zero. 
 
 ### What statistical test would you use to test the hypothesis? And why?
-
+I think I would use MLR (Multiple Linear Regression) as it will show the variables impact on the ratings of the MechaCar.
 
 
 ### What data is needed to run the statistical test?
+A random sample data of more than thirty observatio would be needed for MechaCar and its competitor. 
+
+
 
