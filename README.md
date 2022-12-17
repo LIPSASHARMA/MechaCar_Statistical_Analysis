@@ -27,7 +27,8 @@ vehicle weight: 0.001
 
 ### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
-R-squared is 0.7149, which is a strong correlation for the dataset and shows the dataset is an effective dataset. However, r-squared is not the only consideration for effectiveness. There may be other variables not included in the dataset contributing to the variation in the mpg.
+R-squared should not be used for effectiveness. There are ther variables, like air drag coefficient, etc. that are not included in the calculation of the variation of mpg. 
+R-squared = 0.7149 this indicates a strong correlation and also highlights it is a effective dataset. 
 
 
 ## Summary Statistics on Suspension Coils
@@ -39,6 +40,18 @@ R-squared is 0.7149, which is a strong correlation for the dataset and shows the
 
 ## T-Tests on Suspension Coils
 ### T-test summary and corresponding screenshots
+
+
+![ScreenShot](https://github.com/LIPSASHARMA/MechaCar_Statistical_Analysis/blob/main/images/5_T-test_summary.png)
+
+
+![ScreenShot](https://github.com/LIPSASHARMA/MechaCar_Statistical_Analysis/blob/main/images/6_T-test_lot1.png)
+
+
+![ScreenShot](https://github.com/LIPSASHARMA/MechaCar_Statistical_Analysis/blob/main/images/7_T-test_lot2.png)
+
+
+![ScreenShot](https://github.com/LIPSASHARMA/MechaCar_Statistical_Analysis/blob/main/images/8_T-test_lot3.png)
 
 
 
